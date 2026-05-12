@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.idea/
+odoo.conf
+odoo/
+addons/
+odoo.egg-info/
+.DS_Store
